@@ -1,8 +1,8 @@
 package com.udacity.asteroidradar
 
 object Constants {
-    const val API_KEY = "YsUanEtUAS778OaYmXO6ibc189aNPykZAhRtAQES"
 
+    const val API_KEY = BuildConfig.NASA_API_KEY
     const val BASE_URL = "https://api.nasa.gov/"
     const val HTTP_GET_NEO_FEED_PATH = "neo/rest/v1/feed"
     const val QUERY_START_DATE_PARAM = "start_date"
