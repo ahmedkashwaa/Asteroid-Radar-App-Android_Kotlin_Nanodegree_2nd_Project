@@ -18,3 +18,5 @@ Room Database (implement offline caching)
 Work Manager(schedule to update database every day)
 
 Accessibility (provide basic accessibility such as content description for texts and images)
+![1](https://user-images.githubusercontent.com/76598011/187873865-c785282a-b501-405b-971b-a2666991e198.png)
+![2](https://user-images.githubusercontent.com/76598011/187873891-03a44843-7ac3-433d-94bd-753cca5c0385.png)
